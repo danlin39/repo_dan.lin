@@ -8,3 +8,5 @@
 
 1031 testuser1 master
 1034 dan darker1
+
+1050 dan stronger
